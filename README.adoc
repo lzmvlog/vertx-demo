@@ -1,6 +1,6 @@
 = Vertx-demo
 
-image:https://img.shields.io/badge/vert.x-4.0.0-purple.svg[link="https://vertx.io"]
+image:https://img.shields.io/badge/vert.x-4.0.2-purple.svg[link="https://vertx.io"]
 
 This application was generated using http://start.vertx.io
 
